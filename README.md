@@ -8,5 +8,18 @@
 # Dataset:-
   - Order ID,	Order Date,	Ship Date, Ship Mode, Customer Name, Segment,	Country,	City,	State,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Profit,	Returns,	Payment Mode.
 # Key Analysis:-
+  - Monthly and yearlt sales trend
+  - Top and buttom performing products
+  - Regional sales comparison
+  - payment mode comparison.
+  - Profit and Sales by state
+# Dashboard insights:-
+  - Interactive slicers of region
+  - KPI Cards (Total Sales, Profit, Ship date, Quantity)
+  - Trend and Comparison Charts
+# Business Insights
+  - Sub Category phones have maximum sales.
+  - West region contributes highest revenue
+    
 
         
