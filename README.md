@@ -21,7 +21,7 @@
   - Sub Category phones have maximum sales.
   - West region contributes highest revenue
 
-  ** Author **
+# Author 
 
 -- Samiksha Aher --
 Aspiring Data Analyst | Data Science Enthusiast
